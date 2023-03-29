@@ -18,4 +18,3 @@ EXPOSE 3000
 # Copy the rest of the application code to the container
 # Build the application for production
 RUN npm run
-CMD ["npm", "start"]
